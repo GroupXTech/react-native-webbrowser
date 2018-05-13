@@ -31,7 +31,7 @@
     "url": "https://github.com/radiegtya/react-native-webbrowser/issues"
   },
   "homepage": "https://github.com/radiegtya/react-native-webbrowser#readme",
-  "dependencies": {
-    "react-native-loading-spinner-overlay": "0.4.1"
+  "dependencies": { 
+    "react-native-loading-spinner-overlay": "0.5.2"
   }
 }
